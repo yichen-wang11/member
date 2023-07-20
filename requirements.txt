@@ -1,5 +1,4 @@
-pip==23.2
-requests
+pip
 pandas
 numpy
 streamlit
