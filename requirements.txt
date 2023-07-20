@@ -1,7 +1,7 @@
-pip
+pip == 23.2
 pandas
 numpy
 streamlit
 joblib
-sklearn
-pickle
+sklearn 
+
