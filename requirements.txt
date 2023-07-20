@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+streamlit==1.11.1
+streamlit-player
+streamlit-echarts
+joblib
+sklearn == 1.2.2
+pickle
